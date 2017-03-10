@@ -1,0 +1,38 @@
+<style type="text/css">
+
+    .bs-glyphicons {
+        padding-left: 0px;
+        padding-bottom: 1px;
+        margin-bottom: 0px;
+        list-style: none;
+        overflow: hidden;
+        text-align: center;
+    }
+    .bs-glyphicons li {
+        float: left;
+        width: 25%;
+        height: 115px;
+        padding: 15px;
+        margin: 0 18px 18px 0;
+        font-size: 16px;
+        line-height: 1.4;
+        text-align: center;
+        border: 1px solid #525E64;
+        color: #1BBC9B;
+    }
+    .bs-glyphicons .glyphicon {
+        margin-top: 5px;
+        margin-bottom: 10px;
+        font-size: 24px;
+        color: #1BBC9B;
+    }
+    .bs-glyphicons li:hover {
+        background-color: #f2f6f9;
+    }
+
+    @media (min-width: 768px) {
+        .bs-glyphicons li {
+            width: 12.5%;
+        }
+    }
+</style>
